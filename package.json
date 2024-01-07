@@ -1,0 +1,30 @@
+{
+  "name": "sample_1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@nuxtjs/axios": "^5.13.6",
+    "axios": "^0.21.4",
+    "buefy": "^0.9.23",
+    "core-js": "^3.25.3",
+    "json-server": "^0.17.3",
+    "nuxt": "^2.15.8",
+    "nuxt-buefy": "^0.4.24",
+    "vue": "^2.7.10",
+    "vue-axios": "^3.5.2",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vue-toast": "^3.1.0"
+  },
+  "description": "## Build Setup",
+  "main": "nuxt.config.js",
+  "author": "",
+  "license": "ISC"
+}
